@@ -8,3 +8,9 @@ hello this is test for commit msgs
 
 
 another commit msg for history
+
+this is test branch
+
+another test 2
+
+another test 3
